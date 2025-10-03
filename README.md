@@ -683,6 +683,9 @@ implementation 'io.github.sachinnimbal:samvya-crud-starter:1.0.0'
 # Extend controller
 extends SamvyaCrudController<Entity, ID>
 
+# Extend entity for your model 
+extends SamvyaMongoEntity<String> / SamvyaMySQLEntity<Long> / SamvyaPostgreSQLEntity<Long>
+
 # Create entity
 curl -X POST http://localhost:8080/api/entity -H "Content-Type: application/json" -d '{...}'
 
