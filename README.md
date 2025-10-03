@@ -670,7 +670,7 @@ Special thanks to:
 
 ## 🔗 Links
 
-- **Maven Central**: [io.github.sachinnimbal:samvya-crud-starter](https://central.sonatype.com/)
+- **Maven Central**: [io.github.sachinnimbal:samvya-crud-starter](https://central.sonatype.com/artifact/io.github.sachinnimbal/samvya-crud-starter)
 - **GitHub**: [sachinnimbal/samvya-crud-examples](https://github.com/sachinnimbal/samvya-crud-examples)
 - **Documentation**: [Wiki](https://github.com/sachinnimbal/samvya-crud-examples/wiki)
 - **Author**: [Sachin Nimbal](https://github.com/sachinnimbal)
